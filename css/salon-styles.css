@@ -113,6 +113,7 @@ section {
   height: 524px;
   color: #FFFFFF;
   background-image: url('Frame.png');
+  background-size: cover;
 }
 
 h1 {
@@ -296,7 +297,7 @@ footer p {
   }
   
   .info {
-    margin-right: 20px;  
+    margin-right: 18px;  
   }
 
 }
