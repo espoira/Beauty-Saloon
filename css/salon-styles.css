@@ -113,7 +113,7 @@ section {
   height: 524px;
   color: #FFFFFF;
   background-image: url('Frame.png');
-  background-size: cover;
+  background-position: center;
 }
 
 h1 {
@@ -288,7 +288,7 @@ footer p {
   }
 
   div {
-    padding: 20px;
+    padding: 20px 30px;
   }
   
   section {
@@ -296,8 +296,38 @@ footer p {
     padding-right: 2px;
   }
   
-  .info {
-    margin-right: 18px;  
+  #promo {
+    padding-left: 26px;	
+  }
+  
+  #promo p, 
+   article p,
+   .button,
+   .card a,
+   article a,
+   nav li a {
+    font-size: 17px;
+    line-height: 23px;
+  }
+  
+  #address {
+    margin-left: 100px;  
+  }
+  
+  #address,
+  header a, 
+  input {
+    font-size: 15px;
+    line-height: 21px;
+  }	 
+
+  .card p {
+    font-size: 16px;
+    line-height: 22px;
+  }	  
+  
+  h5 {	  
+    font-size: 20px;	  
   }
 
 }
