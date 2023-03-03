@@ -300,12 +300,16 @@ footer p {
     padding-left: 26px;	
   }
   
-  #promo p, 
-   article p,
-   .button,
-   .card a,
-   article a,
-   nav li a {
+  #promo p {
+    font-size: 18px;
+    line-height: 24px;
+  }  
+	  
+  article p,
+  .button,
+  .card a,
+  article a,
+  nav li a {
     font-size: 17px;
     line-height: 23px;
   }
