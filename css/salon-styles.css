@@ -330,8 +330,9 @@ footer p {
     line-height: 22px;
   }	  
   
-  h5 {	  
-    font-size: 20px;	  
+  h5 {	
+    margin-top: -6px;
+    font-size: 22px;	  
   }
 
 }
